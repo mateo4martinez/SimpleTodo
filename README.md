@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 NOTE: IF GIF LINK NOT WORKING, CAN BE SEEN IN THE ROOT FILE
 
-<img src='https://media.giphy.com/media/jQYM0xW8DpqR7FMz0z/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/H5hPrm6Kyv4CNezhPB/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with GIPHY.
