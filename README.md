@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+NOTE: IF GIF LINK NOT WORKING, CAN BE SEEN IN THE ROOT FILE
 <img src='walthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with GIPHY.
