@@ -28,12 +28,14 @@ Here's a walkthrough of implemented user stories:
 
 NOTE: IF GIF LINK NOT WORKING, CAN BE SEEN IN THE ROOT FILE
 <img src='walthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+LICECAP ONLY GAVE BLACK SCREEN. DID NOT WORK.
 
 GIF created with GIPHY.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Building the app was fine! Only had trouble recording the emulator through LICEcap
 
 ## License
 
